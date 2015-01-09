@@ -5,7 +5,11 @@ public class Esp{
 
 	public void setAge(int age){
 		this.age = age;
+	
 	}
+
+	public void getAge(){}
+
 
 	public void setEmpID(String empid){
 		this.empid = empid;
